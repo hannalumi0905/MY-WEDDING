@@ -41,7 +41,7 @@ const CONFIG = {
     venue: "더테라스 웨딩 & 파티",
     hall: "11층",
     address: "경기 고양시 일산동구 강석로 9",
-    tel: "0507-1432-1017                            \n주차안내: 웨딩홀 내 270대 주차 가능 3~9층\n하객 2시간 무료 주차",
+    tel: "0507-1432-1017                            \n주차안내: 웨딩홀 내 270대 주차 가능 3~9층 \n하객 2시간 무료 주차",
     mapLinks: {
       kakao: "https://place.map.kakao.com/17388389",
       naver: "https://naver.me/Ghbg5Nma"
